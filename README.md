@@ -1,4 +1,4 @@
-[
+
   {
     "id": "a880d841a905298",
     "username": "ali",
@@ -55,4 +55,4 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
-]
+  
